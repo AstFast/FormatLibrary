@@ -8,7 +8,7 @@ Please don't rely on his correctness, I am just collecting data, not analyzing i
 
 | Identifier    | Type                  | Coding                | Platform | Other | Link                   |
 | ------------- | --------------------- | --------------------- | -------- | ----- | ---------------------- |
-| ARCV          |                       |                       | nds,3ds  |       | [chick](./ARCV.md)     |
-| SNR\|SPS\|SNS | header\|header\|chunk | EAADPCMXA,EAADPCMXAS, |          |       | [chick](./EAFormat.md) |
+| ARCV          |                       |                       | nds,3ds  |       | [click](./ARCV.md)     |
+| SNR\|SPS\|SNS | header\|header\|chunk | EAADPCMXA,EAADPCMXAS, |          |       | [click](./EAFormat.md) |
 |               |                       |                       |          |       |                        |
 |               |                       |                       |          |       |                        |
